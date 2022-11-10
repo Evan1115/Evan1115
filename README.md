@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="600" height="300"/>
+  <img src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
 </div>
 
 - 👋 Hi, I’m @Evan1115
