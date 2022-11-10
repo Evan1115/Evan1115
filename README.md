@@ -26,7 +26,7 @@
 
 ## Connect with me:
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][4]
 
 [4]: https://www.linkedin.com/in/evan1115/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evan1115&show_icons=true&theme=radical)
