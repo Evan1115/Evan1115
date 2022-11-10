@@ -27,7 +27,7 @@
 ## Connect with me:
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/evan1115/)
+<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />(https://www.linkedin.com/in/evan1115/)
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evan1115&show_icons=true&theme=radical)
