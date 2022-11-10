@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="500" height="400"/>
 </div>
 
-
+---
 
 - 👋 Hi, I’m @Evan1115
 - 👀 I’m interested in Web development and mobile development
