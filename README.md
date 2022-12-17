@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @Evan1115
 - 👀 I’m interested in Web development and mobile development
-- 🌱 I’m currently learning Angular and Springboot
+- 🌱 I’m currently learning Nestjs and Angular
 - 💞️ I’m looking to apply my skill and knowledge on the real world project!
 
 ## Skills:
