@@ -36,7 +36,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][4]
 
 [4]: https://www.linkedin.com/in/evan1115/
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evan1115&show_icons=true&theme=yeblu)
+--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Evan1115/Evan1115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
